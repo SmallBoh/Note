@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeMo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="_edit_soso">搜索</string>
+    <string name="_time">时间</string>
+    <string name="_BTitlke">标题</string>
+    <string name="love_life">love life</string>
+    <string name="_">+</string>
+    <string name="_groupName">标签名称</string>
+    <string name="_Nr">请输入内容</string>
+    <string name="_return">返回</string>
+    <string name="_save">保存</string>
+    <string name="_delete">删除</string>
+    <string name="_date">日期</string>
+    <string name="_the_matter">这是内容</string>
+    <string name="_share_info_finish">返回</string>
+
+</resources>
